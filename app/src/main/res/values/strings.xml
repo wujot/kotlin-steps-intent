@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Step</string>
+    <!-- Button -->
+    <string name="button_next">NEXT</string>
+    <!-- Inputs -->
+    <string name="input_name">Name</string>
+    <string name="input_surname">Surname</string>
+    <string name="input_gender_male">Male</string>
+    <string name="input_gender_female">Female</string>
+    <string name="input_about_poland">I live in Poland</string>
+    <string name="input_about_developer">I am Android Developer</string>
+    <string name="input_about_sing">I like singing</string>
+    <string name="input_about_cook">I like cooking</string>
+    <string name="input_about_tired">I am tired</string>
+    <!-- Action Bar Menu -->
+    <string name="menu_clear">Clear</string>
+    <!-- Radio buttons groups titles -->
+    <string name="input_groups_gender">Gender</string>
+    <string name="input_groups_about">About</string>
+</resources>
